@@ -1,2 +1,2 @@
 # randomPassword
-From Eng. Tamer Joma'a
+By Eng. Tamer Joma'a
